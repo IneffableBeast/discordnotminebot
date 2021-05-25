@@ -1,0 +1,38 @@
+{
+  "mrpVersion": "3.1.3",
+  "profileName": "Lunar Client",
+  "appId": "846626949819531295",
+  "details": "Lunar Client",
+  "state": "Playing on Hypixle.net (PVP Practice)",
+  "showTimer": true,
+  "isCountingUp": true,
+  "countdownSeconds": 0,
+  "curPlayers": 4,
+  "maxPlayers": 4,
+  "customImages": [
+    "superhot",
+    "pubg",
+    "fortnite",
+    "overwatch",
+    "chip",
+    "csgo",
+    "magnet",
+    "smile",
+    "myrpc",
+    "computer",
+    "xbox",
+    "playstation",
+    "nintendo",
+    "lunar"
+  ],
+  "largeImage": {
+    "enabled": true,
+    "imageKey": "lunar",
+    "imageText": ""
+  },
+  "smallImage": {
+    "enabled": false,
+    "imageKey": "",
+    "imageText": ""
+  }
+}

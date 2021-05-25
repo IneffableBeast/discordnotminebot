@@ -1,0 +1,38 @@
+{
+  "mrpVersion": "3.1.3",
+  "profileName": "Cyberpunk 2077",
+  "appId": "846696720385703947",
+  "details": "Cyberpunk 2077",
+  "state": "Playing Cyberpunk 2077",
+  "showTimer": true,
+  "isCountingUp": true,
+  "countdownSeconds": 0,
+  "curPlayers": 0,
+  "maxPlayers": 0,
+  "customImages": [
+    "superhot",
+    "pubg",
+    "fortnite",
+    "overwatch",
+    "chip",
+    "csgo",
+    "magnet",
+    "smile",
+    "myrpc",
+    "computer",
+    "xbox",
+    "playstation",
+    "nintendo",
+    "jpg"
+  ],
+  "largeImage": {
+    "enabled": true,
+    "imageKey": "jpg",
+    "imageText": ""
+  },
+  "smallImage": {
+    "enabled": false,
+    "imageKey": "",
+    "imageText": ""
+  }
+}

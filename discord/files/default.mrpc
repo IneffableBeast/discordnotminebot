@@ -1,0 +1,37 @@
+{
+  "mrpVersion": "3.1.3",
+  "profileName": "Default",
+  "appId": "401775087440756737",
+  "details": "made by strukteon",
+  "state": "https://strukteon.net",
+  "showTimer": false,
+  "isCountingUp": true,
+  "countdownSeconds": 0,
+  "curPlayers": 0,
+  "maxPlayers": 0,
+  "customImages": [
+    "superhot",
+    "pubg",
+    "fortnite",
+    "overwatch",
+    "chip",
+    "csgo",
+    "magnet",
+    "smile",
+    "myrpc",
+    "computer",
+    "xbox",
+    "playstation",
+    "nintendo"
+  ],
+  "largeImage": {
+    "enabled": false,
+    "imageKey": "",
+    "imageText": ""
+  },
+  "smallImage": {
+    "enabled": false,
+    "imageKey": "",
+    "imageText": ""
+  }
+}
